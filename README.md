@@ -1,2 +1,2 @@
-# Detection
-SYN Attack Detection
+# Attack / Detection
+SYN Attack + Detection
