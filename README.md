@@ -1,2 +1,1 @@
-# Attack / Detection
-SYN Attack + Detection
+# SYN Flood Attack / Detection
